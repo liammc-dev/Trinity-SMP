@@ -1,16 +1,60 @@
 # Trinity SMP
 
-Trinity SMP is a class-based PvP plugin for Paper and Spigot servers that transforms combat through unique playstyles and progression.
+A class-based PvP progression plugin for Paper and Spigot servers.
 
-Players are randomly assigned one of three classes — Reaper, Wraith, or Sovereign — each with its own ability tree and progression path. As players gain vanilla XP, they unlock increasingly powerful abilities across five tiers, creating a dynamic and evolving PvP experience.
+## Overview
+
+Trinity SMP transforms PvP through unique classes, progression systems, and unlockable abilities.
+
+When players join, they are assigned one of three distinct classes:
+
+- Reaper
+- Wraith
+- Sovereign
+
+Each class features its own playstyle and progression path, with powerful abilities unlocked through vanilla XP leveling.
 
 ## Features
 
-- Three unique combat classes
-- Five progression tiers per class
-- XP-based ability unlocking
-- Class reroll system
-- Live progress GUI
-- Configurable cooldowns
-- WorldGuard compatibility
-- Fully configurable gameplay settings
+### Classes
+
+#### Reaper
+An aggressive burst-damage class focused on eliminating opponents quickly.
+
+#### Wraith
+A mobility-focused class built around movement, repositioning, and counterplay.
+
+#### Sovereign
+A crowd-control class designed to lock down enemies and control engagements.
+
+### Progression System
+
+- 5 unlockable ability tiers per class
+- Vanilla XP-based progression
+- Persistent player progression
+
+### Gameplay Features
+
+- Random class assignment
+- Craftable class reroll item
+- Live progress tracking GUI
+- Configurable cooldown system
+- WorldGuard region support
+- Fully configurable settings
+
+## Technologies
+
+- Java
+- Paper API
+- Spigot API
+- WorldGuard API
+
+## Status
+
+Commercial project. Source code is not publicly available.
+
+## Author
+
+Liam
+Minecraft: liam__mc
+Discord: liam_bluelock
